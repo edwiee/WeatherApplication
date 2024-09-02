@@ -14,7 +14,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 
 #
 ### Demo 👇
-<p><samp><b><a href = "" >Click here to check weather.</a></b></samp></p>
+<p><samp><b><a href = "https://edwiee.github.io/WeatherApplication/weather.html" >Click here to check Weather.</a></b></samp></p>
 
 #
 ### SnapShot
