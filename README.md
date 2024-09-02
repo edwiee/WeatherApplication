@@ -13,5 +13,11 @@ Edwin | [@edwiee](https://github.com/edwiee)
 <code><img height="30" alt="JAVACRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 
 #
+### SnapShot
+
+<img width="100%" alt="Hello, I'm Anurag. I do open source!" src="WeatherSS.png" />
+
+----
+<p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
 
 
