@@ -3,7 +3,7 @@
 
 #
 ### Author
-[Edwin](https://github.com/edwiee)
+Edwin | [@edwiee](https://github.com/edwiee)
 
 #
 ### 🚀 Done With
