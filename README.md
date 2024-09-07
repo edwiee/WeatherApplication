@@ -19,7 +19,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 #
 ### SnapShot
 
-<img width="100%" alt="Hello, I'm Anurag. I do open source!" src="WeatherSS.png" />
+<img width="100%" alt="" src="WeatherSS.png" />
 
 ----
 <p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
